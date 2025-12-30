@@ -16,9 +16,9 @@ Specter is not just a solution for the gaming industry but a versatile platform 
 
 ### **Getting Started with the Specter API**
 
-To dive into the specifics of the Specter API and start integrating these powerful features into your projects, visit our [API Reference documentation](https://doc.specterapp.xyz). Here, you'll find everything you need to get started, from authentication details to comprehensive guides on each endpoint.
+To dive into the specifics of the Specter API and start integrating these powerful features into your projects, visit our [API Reference documentation](https://api.specterapp.xyz/api-docs/client/). Here, you'll find everything you need to get started, from authentication details to comprehensive guides on each endpoint.
 
 For developers looking forward to server-side functionalities, keep an eye on our updates. We're continuously enhancing our platform to bring you more capabilities that support your development journey.
 
 \
-\
+<br>
